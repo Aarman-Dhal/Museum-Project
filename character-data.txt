@@ -1,0 +1,12 @@
+Kylie Jenner;3.51;Didn’t pay your salary;kylie.jpg
+Drake;4.47;Bought you a chain;drake.jpg
+Kelly Oubre Jr;3.59;Showed you attitude;oubre.jpg
+Ariana Grande;4.79;She helped take your pet to the vet;ariana.jpg
+Stephen A. Smith;3.78;Bought you lunch;stephen.jpg
+The Weeknd;4.62;Helped you when I crashed my car;weeknd.jpg
+Jenna Fisher;2.75;She didn’t fax your work;pam.jpg
+Madeline Cline;2.35;Didn’t tell you directions when you asked;madeline.jpg
+Zendaya;4.78;Complimented your outfit;zendaya.jpg
+Dixie D'Amelio;3.37;She forced you to listen to her sad song;dixie.jpg
+David Beckham;3.82;Coached your soccer game;david-beckham.jpg
+David Dobrik;2.64;Pranked you for clout;dobrik.jpg
